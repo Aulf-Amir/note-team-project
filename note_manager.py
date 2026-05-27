@@ -13,7 +13,7 @@ Personal Note Manager - консольное приложение для упр�
     delete  - удалить заметку по ID
     exit    - выйти из программы
 """
-
+# Team Project: Git training
 import json
 import os
 from datetime import datetime
